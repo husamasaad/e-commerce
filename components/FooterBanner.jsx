@@ -23,7 +23,7 @@ const FooterBanner = ({ footerBanner: { discount, largeText1, largeText2, saleTi
             </div>
             <div className="form-item">
               <textarea className="" name="message" required />
-              <label>ما الذي تبجث عنه:</label>
+              <label>ما الذي تبحث عنه:</label>
             </div>
             <button className="submit-btn">إرسال</button>  
           </form>
