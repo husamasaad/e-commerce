@@ -22,7 +22,7 @@ const ProductDetails = ({ product, products }) => {
         <div className='row align-tems-center'>
           <div className='col-12 col-md-6 text-center order-2 order-md-1'>
             <img src={urlFor(image && image[index])} className="p-img img-fluid bg-light shadow p-5 rounded" />
-            <div className="d-flex gap-2 mt-4">
+            <div className="d-flex gap-2 mt-4 flex-wrap">
               {image?.map((item, i) => (
                 <img 
                   key={i}
