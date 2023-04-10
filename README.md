@@ -1,7 +1,7 @@
 # E-commerce Website
 
-This is a sample application that demonstrates an E-commerce website using the CMS. The application loads
-products from a Sanity and displays them. Users can select to display products in a single category. Users can
+This is a sample application that demonstrates an E-commerce website using Headless CMS. The application loads
+products from Sanity dashboard and displays them. Users can select to display products in a single category. Users can
 click on any product to get more information including pricing, reviews and rating. Users can select items and
 add them to their shopping cart..
 
@@ -19,7 +19,7 @@ All the content is being controlled by Sanity manager dashboard, you can add ir 
 
 ## Live Demonstration
 
-The E-commerce demo can be [viewed online here](#).
+The E-commerce demo can be [viewed online here](https://tech-e-commerce-one.vercel.app/).
 
 Here are screenshots that show the E-commerce demo application in use.
 
