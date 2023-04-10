@@ -30,7 +30,7 @@ const Product = ({ product : {image, name, slug, price, details, subtitle} }) =>
         <div className="cta d-flex align-items-center justify-content-between">
           <Link href={`/product/${slug.current}`}>
           <button className="btn">
-            افرأ المزيد
+            اقرأ المزيد
           </button>
           </Link>
           <div className="price">SDG {formatPrice(price)}</div>
