@@ -8,7 +8,7 @@ const FooterBanner = ({ footerBanner: { discount, largeText1, largeText2, saleTi
     <section className="py-5 bg-dark">
       <div className='container-fluid'>
       <h2 className='mt-4 display-3 fw-bold section-title-alt'>لم تجد ما تبحث عنه ؟
-        <span>تواصل معنا لتوفيره</span>
+        <span className='text-white'>تواصل معنا لتوفيره</span>
       </h2>
       <div className='row contact align-items-center bg-light rounded mx-auto shadow'>
         <div className='col-12 col-md-6 p-4 text-center'>
